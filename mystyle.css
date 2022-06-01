@@ -1,0 +1,35 @@
+div:nth-child(1){
+  border-style: dotted;
+}
+div:nth-child(2){
+  border-style: double;
+}
+div:nth-child(3){
+  border-style: solid;
+}
+div:nth-child(4){
+  border-style: dashed;
+}
+div:nth-child(5){  border-style: none;
+}
+div:nth-child(6){
+  border-style: hidden;
+}
+div:nth-child(7){
+  border-style: outset;
+}
+div:nth-child(8){
+  border-style: groove;
+  border-color:yellow;
+}
+div:nth-child(9){
+   border-top-style: dotted;
+   border-right-style: solid;
+   border-bottom-style: dotted;
+   border-left-style: solid;
+}
+div:nth-child(10){
+   border-top: 6px solid red;
+   border-bottom: 6px solid red;
+}
+
