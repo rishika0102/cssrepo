@@ -1,0 +1,36 @@
+div:nth-child(1){
+  outline-style: dotted;
+}
+div:nth-child(2){
+  outline-style: double;
+}
+div:nth-child(3){
+  outline-style: solid;
+}
+div:nth-child(4){
+  outline-style: dashed;
+}
+div:nth-child(5){
+ outline-style: none;
+}
+div:nth-child(6){
+  outline-style: hidden;
+}
+div:nth-child(7){
+  outline-style: outset;
+}
+div:nth-child(8){
+  outline-style: groove;
+  outline-color:yellow;
+}
+div:nth-child(9){
+   outline-top-style: dotted;
+   outline-right-style: solid;
+   outline-bottom-style: dotted;
+   outline-left-style: solid;
+}
+div:nth-child(10){
+   outline-top: 6px solid red;
+   outline-bottom: 6px solid red;
+}
+
