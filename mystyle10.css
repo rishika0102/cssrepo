@@ -1,0 +1,20 @@
+
+@media {
+  div{ background-color:red;
+  font-family: calibri;
+  font-style: italic;}
+}
+
+@media screen and (max-width: 200px){
+div{max-width: 20px;
+  background-color:red;
+  font-family: calibri;
+  font-style: bold;
+}
+}
+
+@font-face {
+  font-family: calibri;
+  src:url("https://docs.microsoft.com/en-us/typography/font-list/calibri");
+
+}
