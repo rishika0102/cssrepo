@@ -1,0 +1,10 @@
+
+#borderimg1 {
+  border: 10px solid transparent;
+  border-image-source: url(/home/rails/Desktop/image.jpg);
+  height:100px;
+  width:250px;
+  border-image-repeat: round;
+  border-image-slice: 30;
+
+}
