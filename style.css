@@ -1,0 +1,17 @@
+#lineargrad{
+    background-image: linear-gradient(blue, pink);
+    height: 55px;
+    width:130px;
+}
+
+#radialgrad{
+   background-image: radial-gradient(pink, blue, purple);
+   height: 55px;
+   width:130px;
+}
+
+#conicgrad{
+    background-image: conic-gradient(pink, blue, lightblue);
+    height: 55px;
+    width:130px;
+}
