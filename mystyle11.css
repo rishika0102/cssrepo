@@ -1,0 +1,49 @@
+.firstp{
+   white-space: nowrap;
+  max-width: 150px;
+  border-width: 5px;
+  border-style: solid;
+  overflow: hidden;
+   text-overflow: clip;
+
+}
+.secp{
+   white-space: nowrap;
+   max-width: 150px;
+  border-width: 5px;
+  border-style: solid;
+  color:red;
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
+.thirdp{
+
+    max-width: 150px;
+   border-width: 5px;
+  border-style: solid;
+  color:blue;
+  word-wrap: break-word;
+
+}
+.forthp{
+   writing-mode: vertical-rl;
+    max-width: 150px;
+   border-width: 5px;
+  border-style: solid;
+}
+.fifthp{
+
+    max-width: 150px;
+   border-width: 5px;
+  border-style: solid;
+  word-break: keep-all;
+}
+
+.sixp{
+
+    max-width: 150px;
+   border-width: 5px;
+  border-style: solid;
+  word-break: break-all;
+}
+
