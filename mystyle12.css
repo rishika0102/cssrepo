@@ -1,0 +1,17 @@
+div {
+  width: 100px;
+  height: 100px;
+  background: purple;
+  position: relative;
+  animation: move 5s infinite;
+}
+
+@keyframes move {
+  0%   {top: 0px; left:0px; background: pink;}
+  20%  {top: 0px; left:20px; background: blue;}
+  40%  {top: 70px; left:40px; background: red;}
+  60%  {top: 80px; left:20px; background: green;}
+  80%  {top: 90px; background: pink;}
+  100% {top: 0px; background: yellow;}
+
+}
