@@ -1,0 +1,45 @@
+.firstdiv{
+  height: 300px;
+ width: 290px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+position: relative;
+}
+.secdiv{
+  height: 100px;
+ width: 140px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ position: absolute;
+}
+.thirddiv{
+  height: 100px;
+ width: 140px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ position: fixed;
+ margin-left: 5px;
+
+ }
+ .forthdiv{
+  height: 100px;
+ width: 140px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ position: sticky;
+
+}
+.fifthdiv{
+  height: 100px;
+ width: 140px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ position: inherit;
+ }
+
+
