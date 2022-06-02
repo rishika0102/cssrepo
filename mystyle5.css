@@ -1,0 +1,52 @@
+.firstdiv{
+ height: 60px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ overflow: auto;
+}
+.firstp{
+   line-height: 50px;
+   max-height:40px;
+   max-width:150px;
+}
+.secdiv{
+ height: 60px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ overflow: scroll;
+}
+.secp{
+   line-height: 50px;
+   max-height:40px;
+   max-width:150px;
+}
+.thirddiv{
+ height: 60px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ overflow: visible;
+}
+.thirdp{
+   line-height: 50px;
+   max-height:40px;
+   max-width:150px;
+}
+.forthdiv{
+ height: 60px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+ overflow: hidden;
+}
+.forthp{
+   line-height: 50px;
+   max-height:40px;
+   max-width:150px;
+}
