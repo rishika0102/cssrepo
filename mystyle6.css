@@ -1,0 +1,60 @@
+.firstdiv{
+  height: 150px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+}
+.secdiv{
+  height: 150px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+
+}
+.thirddiv{
+  height: 150px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+
+}
+.forthdiv{
+  height: 150px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+
+}
+.fifthdiv{
+  height: 150px;
+ width: 180px;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: black;
+}
+.firstp{
+   visibility: visible;
+}
+.sectp{
+   visibility: hidden;
+}
+.styletr{
+  visibility: collapse;
+}
+.forthp{
+   visibility: initial;
+   color:blue;
+}
+.fifthp{
+   visibility: inherit;
+   color:yellow;
+}
+.firstspan{
+  color:red;
+
+}
+
