@@ -1,0 +1,20 @@
+div p:first-child{
+  color:red;
+}
+.secdiv:hover{
+color:blue;
+font-size: 60px;
+}
+input:focus{
+  background-color:red;
+  }
+.stycheck:checked{
+  height: 70px;
+  width:20px;
+}
+input:readonly{
+  color:green;
+}
+.stycheck2:invalid{
+  border: 5px solid red;
+}
