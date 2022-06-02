@@ -1,0 +1,7 @@
+div{
+   background-image: url(/home/rails/Desktop/image.jpg);
+   background-size: 700px;
+   background-repeat: repeat;
+   padding: 5px;
+   background-size: contain;
+}
